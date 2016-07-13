@@ -33,7 +33,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application - Done by VLN and checked in Git</p>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application - Changed Repository Name</p>
         </footer>
     </div>
 
